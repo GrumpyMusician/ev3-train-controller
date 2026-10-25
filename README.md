@@ -8,6 +8,9 @@ Lego Mindstorms was discontinued in 2022, meaning that, although there are still
 There is also a possibility of using Raspberry Pi HATS that utilizes the newer LPF2 ports, doing away with the technic hubs.  
 Unfortunately, I do not have the money in buying the Spike PRIME kit.
 
+<img width="1080" height="498" alt="image" src="https://github.com/user-attachments/assets/0bf60830-60ff-4851-a32b-0f9aec39dd1e" />
+
+
 ## How to Use 💻
 
 > :warning: **WiFi Issue**: Unfortunately, the connection between the EV3 brick and the computer may result in the temporary loss of WiFi. There's not much I can do here. Luckily, you are driving an offline train that doesn't need WiFi. But this means that you can't play the game while watching a Youtube video. Not like you should do that anyways.  
