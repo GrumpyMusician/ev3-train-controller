@@ -40,7 +40,7 @@ This project requires:
 * Install the latest Python program from the Microsoft Store. As of time of writing, it is [v3.13](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=US&ocid=pdpshare).
 * Open up Windows Command Prompt. Install the [keyboard](https://pypi.org/project/keyboard/) and [pyvjoy modules](https://pypi.org/project/pyvjoy/) with ``pip install keyboard pyvjoy``. If this doesn't work, try running Windows Command Prompt as an administrator. -->
 * Install [vJoystick](https://sourceforge.net/projects/vjoystick/).
-* Download the [VirtualHID](https://github.com/GrumpyMusician/VirtualHID/blob/main/dist/main.exe) program. It may give you a warning pop-up, but ignore it run the program anyways. It also prompt for connection permissions (this is necessary in order to listen to the EV3 brick), and it will launch a terminal to show you what the EV3 brick is sending, if at all. Feel free to ignore it!  
+* Download the [VirtualHID](https://github.com/GrumpyMusician/virtual-hid/blob/main/dist/main.exe) program. It may give you a warning pop-up, but ignore it run the program anyways. It also prompt for connection permissions (this is necessary in order to listen to the EV3 brick), and it will launch a terminal to show you what the EV3 brick is sending, if at all. Feel free to ignore it!  
   <!--* Download the [VirtualHID](https://github.com/Mindstorms-for-Train-Simulators/VirtualHID) repository.-->
 
 ### Setting up the Computer - CobraOne Driver ♥️:
